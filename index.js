@@ -86,6 +86,7 @@ function findPaths(
 
     // Backtrack
     currentPath.pop();
+    // Expected to call function again
 }
 
 
